@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- device -->
+    <project path="device/xiaomi/surya" name="platform_device_xiaomi_surya" revision="viola" remote="halcyon-devices" />
+
+    <!-- kernel -->
+    <project path="kernel/xiaomi/surya" name="platform_kernel_xiaomi_surya" revision="viola" remote="halcyon-devices" />
+  
+    <!-- vendor -->
+    <project path="vendor/xiaomi/surya" name="vendor_xiaomi_surya" revision="viola" remote="halcyon-blobs" />
+    <project path="vendor/xiaomi/surya-gcgop" name="vendor_xiaomi_surya-gcgop" revision="viola" remote="halcyon-blobs" />
+
+    <!-- hardware -->
+    <!-- project path="hardware/xiaomi" name="hardware_xiaomi" remote="github/ProjectBlaze-Reborn" / -->
+
+</manifest>
