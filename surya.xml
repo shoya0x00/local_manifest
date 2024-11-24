@@ -2,10 +2,10 @@
 <manifest>
 
     <!-- device -->
-    <project path="device/xiaomi/surya" name="platform_device_xiaomi_surya" revision="viola" remote="halcyon-devices" />
+    <project path="device/xiaomi/surya" name="device_xiaomi_surya" revision="viola" remote="halcyon-devices" />
 
     <!-- kernel -->
-    <project path="kernel/xiaomi/surya" name="platform_kernel_xiaomi_surya" revision="viola" remote="halcyon-devices" />
+    <project path="kernel/xiaomi/surya" name="kernel_xiaomi_surya" revision="viola" remote="halcyon-devices" />
   
     <!-- vendor -->
     <project path="vendor/xiaomi/surya" name="vendor_xiaomi_surya" revision="viola" remote="halcyon-blobs" />
